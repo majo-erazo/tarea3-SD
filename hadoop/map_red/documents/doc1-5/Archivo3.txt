@@ -49,53 +49,11 @@ Not all patients will fill the prescription at a pharmacy. In a 2010 U.S. study,
 ==== Medication Possession Ratio ====
 Prescription medical claims records can be used to estimate medication adherence based on fill rate. Patients can be routinely defined as being 'Adherent Patients' if the amount of medication furnished is at least 80% based on days' supply of medication divided by the number of days patient should be consuming the medication. This percentage is called the medication possession ratio (MPR). 2013 work has suggested that a medication possession ratio of 90% or above may be a better threshold for deeming consumption as 'Adherent'.Two forms of MPR can be calculated, fixed and variable. Calculating either is relatively straightforward, for Variable MPR (VMPR) it is calculated as the number of days' supply divided by the number of elapsed days including the last prescription.
 
-  
-    
-      
-        V
-        M
-        P
-        R
-        =
-        
-          
-            
-              All days' supply
-              Elapsed days (inclusive of last prescription)
-            
-          
-        
-      
-    
-    {\displaystyle VMPR={\dfrac {\text{All days' supply}}{\text{Elapsed days (inclusive of last prescription)}}}}
+
   
 For the Fixed MPR (FMPR) the calculation is similar but the denominator is the number of days in a year whilst the numerator is constrained to be the number of days' supply within the year that the patient has been prescribed.
 
-  
-    
-      
-        F
-        M
-        P
-        R
-        =
-        
-          
-            
-              
-                
-                  All days' supply
-                
-                ≤
-                365
-              
-              365
-            
-          
-        
-      
-    
-    {\displaystyle FMPR={\dfrac {{\text{All days' supply}}\leq 365}{365}}}
+
   
 For medication in tablet form it is relatively straightforward to calculate the number of days' supply based on a prescription. Some medications are less straightforward though because a prescription of a given number of doses may have a variable number of days' supply because the number of doses to be taken per day varies, for example with preventative corticosteroid inhalers prescribed for asthma where the number of inhalations to be taken daily may vary between individuals based on the severity of the disease.
 
