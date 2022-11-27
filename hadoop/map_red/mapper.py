@@ -11,3 +11,7 @@ for line in sys.stdin:
     for word in words:
         print('{}\t{}'.format(word,1))
 
+
+
+    
+
