@@ -1,0 +1,9 @@
+FROM python:3
+
+WORKDIR /home/node
+
+RUN pip install wikipedia
+
+COPY . .
+
+CMD [ "python3", "./api-wikipedia.py"]
