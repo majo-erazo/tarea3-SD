@@ -13,13 +13,9 @@ for line in sys.stdin:
     ruta = os.environ['map_input_file']
     lista_ruta = ruta.split("/", 6)
     doc = lista_ruta[6].split('.', 1)[0]
+    doc = doc.split('o', 1)[1]
 
     for word in words:
-        print('imprime word, 1, doc en formato {}\\t{}\\t{}')
-        print('{}\t{}\t{}'.format(word,1,doc))
+        print('{}\t{}\t{}'.format(word,1,int(doc)))
 
-
-
-
-    
 
