@@ -61,6 +61,6 @@ hdfs dfs -cat /user/hduser/output/*
 
 ### Anexos
 
-[Video de funcionamiento del sistema e informe ☜](https://drive.google.com/drive/folders/1MjSuWQE1b1nd7w5L9C94pB_cDvNJwdno?usp=sharing)
+[Video de funcionamiento del sistema e informe ☜](https://drive.google.com/drive/folders/1A8m2xoFoNtB7i7H31HjrmZElzpK8QHqk?usp=sharing)
 
 [Repositorio del que nos basamos para esta tarea ☜](https://github.com/Naikelin/map-reduce-hadoop)
