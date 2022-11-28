@@ -1,50 +1,91 @@
-Demand generation is the focus of targeted marketing programs to drive awareness and interest in a company's products and/or services. Commonly used in business-to-business, business-to-government, or longer business-to-consumer sales cycles, demand generation involves multiple areas of marketing and is really the marriage of marketing programs coupled with a structured sales process.There are multiple components of a stepped demand generation process that vary based on the size and complexity of a sale. These components include, among other things: building awareness, positioning relevance, supporting validation and mitigating customer evaluation. Useful demand generation methodologies include AIDA (attract Attention, maintain Interest, create Desire, get Action), developed by E. St. Elmo Lewis, an  American advertising advocate.
+Intelligence assessment, or simply intel, is the development of behavior forecasts or recommended courses of action to the leadership of an organisation, based on wide ranges of available overt and covert information (intelligence). Assessments develop in response to leadership declaration requirements to inform decision-making. Assessment may be executed on behalf of a state, military or commercial organisation with ranges of information sources available to each.
+An intelligence assessment reviews available information and previous assessments for relevance and currency. Where there requires additional information, the analyst may direct some collection.
+Intelligence studies is the academic field concerning intelligence assessment, especially relating to international relations and military science.
 
 
-== Building awareness ==
-Demand generation is a holistic approach to marketing and sales cohesion within the company. Through various nurture campaigns and marketing approaches, demand generation efforts aim to both create a long-term relationship between a brand and a potential buyer, and at the same time gauge and develop a prospect's purchasing interest in said brand's products/services. Building brand or product/service awareness is a vital component in the demand generation process, and often takes a continued effort and involves multiple facets of marketing.Advanced demand generation programs typically rely on some form of proactive Lead Generation activities supported by more traditional market programs and processes. This is because demand generation programs tend to assume that prospective customers are aware that they have a need or problem, and are attempting to solve it when they search for solutions.  If the prospect is unaware (consciously or, at least, subconsciously) that they have the problem, then demand generation may not be effective — thus the need for adjunct lead generation activities.
+== Process ==
+
+Intelligence assessment is based on a customer requirement or need, which may be a standing requirement or tailored to a specific circumstance or a Request for Information (RFI). The "requirement" is passed to the assessing agency and worked through the intelligence cycle, a structured method for responding to the RFI.
+The RFI may indicate in what format the requester prefers to consume the product.
+The RFI is reviewed by a Requirements Manager, who will then direct appropriate tasks to respond to the request. This will involve a review of existing material, the tasking of new analytical product or the collection of new information to inform an analysis.
+New information may be collected through one or more of the various collection disciplines; human source, electronic and communications intercept, imagery or open sources. The nature of the RFI and the urgency placed on it may indicate that some collection types are unsuitable due to the time taken to collect or validate the information gathered. Intelligence gathering disciplines and the sources and methods used are often highly classified and compartmentalised, with analysts requiring an appropriate high level of security clearance.
+The process of taking known information about situations and entities of importance to the RFI, characterizing what is known and attempting to forecast future events is termed "all source" assessment, analysis or processing. The analyst uses multiple sources to mutually corroborate, or exclude, the information collected, reaching a conclusion along with a measure of confidence around that conclusion.
+Where sufficient current information already exists, the analysis may be tasked directly without reference to further collection.
+The analysis is then communicated back to the requester in the format directed, although subject to the constraints on both the RFI and the methods used in the analysis, the format may be made available for other uses as well and disseminated accordingly. The analysis will be written to a defined classification level with alternative versions potentially available at a number of classification levels for further dissemination.
 
 
-== Facilitating discovery ==
-The second key area of focus for a marketer focused on demand generation is ensuring that when a prospect decides to seek a vendor to provide a solution in a given solution category, they discover the vendor that the marketer serves.  This is again accomplished with a variety of techniques and tools, often overlapping with the tools used for creating awareness of the category, but with a different emphasis.
+== Target-centric intelligence cycle ==
 
-Search engine advertising – the purchase of advertisements on search engines to appear when keywords on the specific category, or known competitors in the solution space, are searched for.
-Search engine optimization – the use of a variety of techniques to increase a web site’s natural position in search engine results when keywords on the specific category, or known competitors in the solution space, are searched for
-Webinars or seminars – online web based seminars, or in person seminars to allow prospective buyers to discover and understand a vendor’s solution, how it can be used, and who else is using it, in detail
-Demonstrations and free trials – easily accessed, often online, tools for demonstrating a solution or accessing a time-limited or feature-constrained trial version to assist prospective buyers in discovering the solution and its fit with their needAgain, in this phase of the demand generation process, many approaches and tools are used and this list is only a selection of the more common approaches.
-
-
-== Guiding solution validation ==
-Often confused with demand generation is the lead process itself. Converting demand into sales is a totally separate task. Many companies, however, will call themselves demand generation organizations when they are really lead generating.This later phase of the buying process involves validating that a selected vendor will meet specified requirements, coming to an agreement with the vendor on costs, contract terms, support and services, and finalizing the purchase process.
-This often involves coordinating the involvement of other organizational and extra-organizational resources such as sales representatives and reference clients.
-
-Marketing tools as detailed above – trials, demonstrations, whitepapers, and seminars designed for a more detailed evaluation and validation of the solution in question
-Reference management – cultivation, management, and selection of client references willing to provide a potential purchaser with the perspective of a current (or past) client.
-Sales involvement – coordination of the right sales resource to interact with the prospect to navigate the final stages of the buying process including contract negotiation, legal terms and conditions, and signoff.The coordination of sales involvement, the selection of the right sales resource, and the timing of the involvement can be difficult to determine. The scoring, ranking, and routing of leads into sales is a sufficiently deep topic to warrant further exploration.
-
-
-=== Sales involvement ===
-The involvement of sales professionals in the solution validation process involves three main aspects. These are the same whether inside sales or field sales professionals are being involved.
-
-Lead scoring – understanding which prospective buyers warrant being contacted by a sales professional. Lead scoring involves scoring two distinct aspects of the prospect; whether he or she is qualified to be a buyer, and whether he or she is interested in being a buyer. The former looks at explicit information such as title, industry, and revenues to understand whether that individual is able to make a buying decision, while the latter examines implicit information such as recent online activity and marketing response in order to determine whether the individual is currently interested in making a buying decision. Many Marketers will take a simple approach by labelling lead scoring criteria on two foundations: behavioral scoring and demographic scoring.
-Lead ranking – based on the scoring of leads, leads can be assigned ranks based on the business process sales should follow in interacting with the leads. For example, if explicit scoring leads to a 1, 2, or 3 ranking on how qualified the lead is, while implicit scoring leads to an A, B, or C ranking on how interested the lead is, a follow-up process may have 1A leads contacted within 24hrs, 1B leads contacted by a field sales professional within 72hrs, while 1C, 2A, and 2B leads are contacted by an inside sales professional and 2C and all leads ranked as a 3 are not contacted.
-Lead routing – once a business process is determined, a lead routing process determines which lead should be connected with which salesperson, based on geographic territory, industry, company size, or any other factor. Often this involves management of the notification of the salesperson and monitoring of the time taken to follow up.
-
-
-== Related disciplines ==
-In order to effectively manage and optimize the required communication, response, and lead management processes outlined above, marketers focused on demand generation must become proficient at two other related disciplines
-
-Data management – the centralization, de-duplication, profiling, appending, normalizing and cleansing of marketing data so that it can be effectively used to personalize communications, define target lists and segments, score leads, and route leads to sales.
-Marketing analytics – the analysis of the effectiveness of marketing efforts, from individual tactics such as email communications or landing pages through to overall campaign performance.
+This approach, known as Find-Fix-Finish-Exploit-Assess (F3EA), is complementary to the intelligence cycle and focused on the intervention itself, where the subject of the assessment is clearly identifiable and provisions exist to make some form of intervention against that subject, the target-centric assessment approach may be used.
+The subject for action, or target, is identified and efforts are initially made to find the target for further development. This activity will identify where intervention against the target will have the most beneficial effects.
+When the decision is made to intervene, action is taken to fix the target, confirming that the intervention will have a high probability of success and restricting the ability of the target to take independent action.
+During the finish stage, the intervention is executed, potentially an arrest or detention or the placement of other collection methods.
+Following the intervention, exploitation of the target is carried out, which may lead to further refinement of the process for related targets. The output from the exploit stage will also be passed into other intelligence assessment activities.
 
 
 == See also ==
-Artificial demand
-Digital marketing
-Marketing automation
-Demand chain
-Digital marketing engineer
-Voice-based marketing automation
+All-source intelligence
+Intelligence cycle
+List of intelligence gathering disciplines
+Military intelligence
+Surveillance
+Threat assessment
+Futures studies
 
 
 == References ==
+
+
+== Further reading ==
+SurveysAndrew, Christopher. For the President's Eyes Only: Secret Intelligence and the American Presidency from Washington to Bush (1996)
+Black, Ian and Morris, Benny Israel's Secret Wars: A History of Israel's Intelligence Services (1991)
+Bungert, Heike et al. eds. Secret Intelligence in the Twentieth Century (2003) essays by scholars
+Dulles, Allen W. The Craft of Intelligence: America's Legendary Spy Master on the Fundamentals of Intelligence Gathering for a Free World (2006)
+Kahn, David The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet (1996), 1200 pages
+Lerner, K. Lee and Brenda Wilmoth Lerner, eds. Encyclopedia of Espionage, Intelligence and Security (2003), 1100 pages. 850 articles, strongest on technology
+Odom, Gen. William E. Fixing Intelligence: For a More Secure America, Second Edition (Yale Nota Bene) (2004)
+O'Toole,  George. Honorable Treachery: A History of U.S. Intelligence, Espionage, Covert Action from the American Revolution to the CIA (1991)
+Owen, David. Hidden Secrets: A Complete History of Espionage and the Technology Used to Support It (2002), popular
+Richelson, Jeffery T. A Century of Spies: Intelligence in the Twentieth Century (1997)
+Richelson, Jeffery T. The U.S. Intelligence Community (4th ed. 1999)
+Shulsky, Abram N. and Schmitt, Gary J. "Silent Warfare: Understanding the World of Intelligence" (3rd ed. 2002), 285 pages
+West, Nigel. MI6: British Secret Intelligence Service Operations 1909–1945 (1983)
+West, Nigel. Secret War: The Story of SOE, Britain's Wartime Sabotage Organization (1992)
+Wohlstetter, Roberta. Pearl Harbor: Warning and Decision (1962)World War IBeesly, Patrick.  Room 40. (1982). Covers the breaking of German codes by RN intelligence, including the Turkish bribe, Zimmermann telegram, and failure at Jutland.
+May, Ernest (ed.) Knowing One's Enemies: Intelligence Assessment before the Two World Wars (1984)
+Tuchman, Barbara W. The Zimmermann Telegram (1966)
+Yardley, Herbert O. American Black Chamber (2004)World War II
+1931–1945Babington Smith, Constance. Air Spy: the Story of Photo Intelligence in World War II (1957) - originally published as Evidence in Camera in the UK
+Beesly, Patrick. Very Special Intelligence: the Story of the Admiralty's Operational Intelligence Centre, 1939–1945 (1977)
+Hinsley, F. H. British Intelligence in the Second World War (1996) (abridged version of multivolume official history)
+Jones, R. V. Most Secret War: British Scientific Intelligence 1939–1945 (2009)
+Kahn, David.  Hitler's Spies: German Military Intelligence in World War II (1978)
+Kahn, David.  Seizing the Enigma: the Race to Break the German U-Boat Codes, 1939–1943 (1991)
+Kitson, Simon.  The Hunt for Nazi Spies: Fighting Espionage in Vichy France, Chicago:  University of Chicago Press, (2008). ISBN 978-0-226-43893-1
+Lewin, Ronald. The American Magic: Codes, Ciphers and the Defeat of Japan (1982)
+May, Ernest (ed.) Knowing One's Enemies: Intelligence Assessment before the Two World Wars (1984)
+Smith, Richard Harris. OSS: the Secret History of America's First Central Intelligence Agency (2005)
+Stanley, Roy M. World War II Photo Intelligence (1981)
+Wark, Wesley K. The Ultimate Enemy: British Intelligence and Nazi Germany, 1933–1939 (1985)
+Wark,  Wesley K. "Cryptographic Innocence: the Origins of Signals Intelligence in Canada in the Second World War", in: Journal of Contemporary History 22 (1987)Cold War Era
+1945–1991Aldrich, Richard J. The Hidden Hand: Britain, America and Cold War Secret Intelligence (2002).
+Ambrose, Stephen E. Ike's Spies: Eisenhower and the Intelligence Establishment (1981).
+Andrew, Christopher  and Vasili Mitrokhin. The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB (1999)
+Andrew, Christopher, and Oleg Gordievsky. KGB: The Inside Story of Its Foreign Operations from Lenin to Gorbachev (1990).
+Bogle, Lori, ed. Cold War Espionage and Spying (2001), essays by scholars
+Boiling, Graham. Secret Students on Parade: Cold War Memories of JSSL, CRAIL, PlaneTree, 2005. ISBN 1-84294-169-0
+Dorril, Stephen. MI6: Inside the Covert World of Her Majesty's Secret Intelligence Service (2000).
+Dziak,  John J. Chekisty: A History of the KGB (1988)
+Elliott, Geoffrey and Shukman, Harold. Secret Classrooms. An Untold Story of the Cold War. London, St Ermin's Press, Revised Edition, 2003. ISBN 1-903608-13-9
+Koehler, John O. Stasi: The Untold Story of the East German Secret Police (1999)
+Ostrovsky, Viktor By Way of Deception (1990)
+Persico, Joseph. Casey: The Lives and Secrets of William J. Casey-From the OSS to the CIA (1991)
+Prados, John. Presidents' Secret Wars: CIA and Pentagon Covert Operations Since World War II (1996)
+Rositzke, Harry. The CIA's Secret Operations: Espionage, Counterespionage, and Covert Action (1988)
+Trahair, Richard C. S. Encyclopedia of Cold War Espionage, Spies and Secret Operations (2004), by an Australian scholar; contains excellent historiographical introduction
+Weinstein, Allen, and Alexander Vassiliev. The Haunted Wood: Soviet Espionage in America—The Stalin Era (1999).
+
+
+== External links ==
+Intelligence Literature: Suggested Reading List (CIA)
+The Literature of Intelligence: A Bibliography of Materials, with Essays, Reviews, and Comments by J. Ransom Clark, Emeritus Professor of Political Science, Muskingum College
