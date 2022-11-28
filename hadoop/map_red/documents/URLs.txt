@@ -1,0 +1,10 @@
+Archivo1.txt	https://en.wikipedia.org/wiki/Intelligence_assessment
+Archivo2.txt	https://en.wikipedia.org/wiki/Jujutsu_Kaisen
+Archivo3.txt	https://en.wikipedia.org/wiki/One_Piece_(TV_series)
+Archivo4.txt	https://en.wikipedia.org/wiki/Monkey_D._Luffy
+Archivo5.txt	https://en.wikipedia.org/wiki/Diane_Shaw
+Archivo6.txt	https://en.wikipedia.org/wiki/Artificial_intelligence
+Archivo7.txt	https://en.wikipedia.org/wiki/Greek_mythology
+Archivo8.txt	https://en.wikipedia.org/wiki/Book_burning
+Archivo9.txt	https://en.wikipedia.org/wiki/Cryptography
+Archivo10.txt	https://en.wikipedia.org/wiki/Information_theory

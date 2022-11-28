@@ -8,6 +8,7 @@ os.makedirs('hadoop/map_red/documents/doc6-10', exist_ok=True)
 result = ["Intelligence assessment","Jujutsu Kaisen","One Piece (TV series)","Monkey D. Luffy","Diane Shaw","Artificial intelligence","Greek mythology","Book burning","Cryptography","Information theory"]
 #print(result)
 
+URL = open("hadoop/map_red/documents/URLs.txt", "w")
 n = 1
 for i in result:
     if n <= 5:
@@ -16,6 +17,10 @@ for i in result:
             archivo = open("hadoop/map_red/documents/doc1-5/Archivo" + str(n) + ".txt", "w")
             # Se extrae el contenido de la pagina i
             texto_page = wikipedia.page(i).content
+
+            url = wikipedia.page(i).url
+            URL.write("Archivo" + str(n) + ".txt" + "\t" + url + "\n")
+
             # Se escribe en el archivo correspondiente
             archivo.write(texto_page)
             archivo.close
@@ -23,6 +28,11 @@ for i in result:
         if os.path.isfile("hadoop/map_red/documents/doc1-5/Archivo" + str(n) + ".txt") == False:
             archivo = open("hadoop/map_red/documents/doc6-10/Archivo" + str(n) + ".txt", "w")
             texto_page = wikipedia.page(i).content
+
+            url = wikipedia.page(i).url
+            URL.write("Archivo" + str(n) + ".txt" + "\t" + url + "\n")
+
             archivo.write(texto_page)
             archivo.close
     n += 1 
+URL.close
