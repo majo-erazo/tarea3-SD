@@ -6,7 +6,7 @@
 
 ## Hadoop
 
-En este repositorio se tiene el informe, video, código e instrucciones para poder ejecutar la tarea 3 sobre Hadoop. Cabe destacar que para esta tarea nos basamos en el repositorio entregado por el ayudante sobre Hadoop y mapreduce el cual se encuentra en los anexos.
+En este repositorio se tiene el informe, video, código e instrucciones para poder ejecutar la tarea 3 sobre Hadoop. Cabe destacar que para esta tarea nos basamos en el repositorio entregado por el ayudante sobre Hadoop y map-reduce el cual se encuentra en los anexos.
 
 ### Paso 1: Correr el contenedor de Hadoop
 
