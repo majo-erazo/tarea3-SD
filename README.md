@@ -6,7 +6,7 @@
 
 ## Hadoop
 
-En este repositorio se tiene el informe, video, código e instrucciones para poder ejecutar la tarea 3 sobre Hadoop. Cabe destacar que para esta tarea nos basamos en el repositorio entregado por el ayudante sobre Hadoop y mapreduce el cual se encuentra en los anexos.
+En este repositorio se tiene el informe, video, código e instrucciones para poder ejecutar la tarea 3 sobre Hadoop. Cabe destacar que para esta tarea nos basamos en el repositorio entregado por el ayudante sobre Hadoop y map-reduce el cual se encuentra en los anexos.
 
 ### Paso 1: Correr el contenedor de Hadoop
 
@@ -61,6 +61,6 @@ hdfs dfs -cat /user/hduser/output/*
 
 ### Anexos
 
-[Video de funcionamiento del sistema e informe ☜](https://drive.google.com/drive/folders/1MjSuWQE1b1nd7w5L9C94pB_cDvNJwdno?usp=sharing)
+[Video de funcionamiento del sistema e informe ☜](https://drive.google.com/drive/folders/1A8m2xoFoNtB7i7H31HjrmZElzpK8QHqk?usp=sharing)
 
 [Repositorio del que nos basamos para esta tarea ☜](https://github.com/Naikelin/map-reduce-hadoop)
