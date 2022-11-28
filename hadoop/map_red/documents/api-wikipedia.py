@@ -5,7 +5,7 @@ os.makedirs('hadoop/map_red/documents/doc1-5', exist_ok=True)
 os.makedirs('hadoop/map_red/documents/doc6-10', exist_ok=True)
 
 # Se generan 10 titulos random
-result = ["Intelligence assessment","gato","One Piece (TV series)","Monkey D. Luffy","Diane Shaw","Artificial intelligence","Greek mythology","Book burning","Cryptography","Information theory"]
+result = ["Intelligence assessment","Jujutsu Kaisen","One Piece (TV series)","Monkey D. Luffy","Diane Shaw","Artificial intelligence","Greek mythology","Book burning","Cryptography","Information theory"]
 #print(result)
 
 n = 1
