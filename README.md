@@ -13,7 +13,7 @@ En este repositorio se tiene el informe, video, código e instrucciones para pod
 Para comenzar se debe buildear el contenedor con el siguiente comando. Asegurarse antes de que no hay ningún contenedor con el nombre de hadoop.
 
 ```
-docker build --no-cache -t hadoop .
+docker build -t hadoop .
 ```
 Luego se levanta el contenedor con el siguiente comando.
 
@@ -26,7 +26,7 @@ Una vez ejecutado los comando, estará listo para entrar al contenedor de Hadoop
 
 ### Paso 2: Ingresar al contenedor de Hadoop
 
-Para poder utilizar el wordcount de Hadoop lo primero que se deberá hacer es entrar a este contenedor, para ello se utiliza el siguiente comando.
+Para poder utilizar el wordcount de Hadoop lo primero que se deberá hacer es entrar al contenedor creado, para ello se utiliza el siguiente comando en una nueva terminal.
 
 ```
 docker exec -it hadoop bash
@@ -48,17 +48,30 @@ hdfs dfs -put map_red/documents/doc1-5/*txt map_red/documents/doc6-10/*txt input
 
 ### Paso 3: Utilizar mapreduce
 
-Una vez creadas las carpetas y entregado el input en Hadoop, se utiliza el siguiente comando para poder crear y correr los mapper y reducer que será los que realizarán el wordcount.
+Una vez creadas las carpetas y entregado el input en Hadoop, se utiliza el siguiente comando para poder crear y correr los mapper y reducer que será los que realizarán el wordcount. Cabe destacar que se necesita entrar a la carpeta map_red para correr mapper y reducer.
 
 ```
- mapred streaming -files mapper.py,reducer.py -input /user/hduser/input/*.txt -output /user/hduser/output -mapper ./mapper.py -reducer ./reducer.py
+cd map_red/
+mapred streaming -files mapper.py,reducer.py -input /user/hduser/input/*.txt -output /user/hduser/output -mapper ./mapper.py -reducer ./reducer.py
 ```
 Una vez hecho esto se utiliza el siguiente comando para poder insertar el output en un txt.
 
 ```
 hdfs dfs -cat /user/hduser/output/* > output.txt
 ```
+### Paso 4: Utilizar el buscador de palabras
 
+Ahora para poder usar el buscador de palabras, lo primero que se debe hacer es pasar el output del reducer a un json. Este actuará como base de datos para poder utilizar el buscador. El comando a utilizar es el siguiente.
+
+```
+python transform.py
+```
+
+Luego de esto ya se puede utilizar el buscador de la palabras con el siguiente comando.
+
+```
+python buscador.py
+```
 
 ### Anexos
 
