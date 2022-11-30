@@ -31,6 +31,6 @@ print(data)
 
 
 
-with open("../info.json", "w") as output:
+with open("info.json", "w") as output:
     json.dump(data, output, indent = 4)
                                           

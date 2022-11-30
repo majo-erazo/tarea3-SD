@@ -30,7 +30,7 @@ for line in sys.stdin:
 print('Word [Doc1, Count1], [Doc2, Count2], ...') 
 
 for palabra, conteo in dict.items():
-    print(palabra + "\t")
+    print(palabra, end=' ')
     for key in conteo:
         #print in one line 
         print('[',key,',',conteo[key],']', end = ' ')
