@@ -31,12 +31,13 @@ Para poder utilizar el wordcount de Hadoop lo primero que se deberá hacer es en
 ```
 docker exec -it hadoop bash
 ```
-Luego estando aquí se deberá crear las siguientes carpetas con los siguientes comandos.
+Luego estando aquí se deberá crear las siguientes carpetas y dar permisos a la carpeta hduser con los siguientes comandos.
 
 ```
  hdfs dfs -mkdir /user
  hdfs dfs -mkdir /user/hduser
  hdfs dfs -mkdir input
+ sudo chown -R hduser .
 ```
 
 Una vez hecho esto se deberá pasar el input a utilizar con el siguiente comando.
@@ -55,7 +56,7 @@ Una vez creadas las carpetas y entregado el input en Hadoop, se utiliza el sigui
 Una vez hecho esto se utiliza el siguiente comando para poder insertar el output en un txt.
 
 ```
-hdfs dfs -cat /user/hduser/output/*
+hdfs dfs -cat /user/hduser/output/* > output.txt
 ```
 
 
